@@ -87,7 +87,9 @@ Solution: Evaluate and standardize toolsets where possible. Ensure tools used ar
 
 ### References
 -https://en.wikipedia.org/wiki/Continuous_integration
--https://codefresh.io/learn/ci-cd-pipelines/ci-cd-and-agile-why-ci-cd-promotes-true-agile-development/
--https://www.browserstack.com/guide/role-of-automation-testing-in-ci-cd#:~:text=Automation%20enables%20meaningful%20and%20effective,feedback%20reaches%20the%20developer%20early.
--https://www.browserstack.com/guide/ci-cd-challenges-and-solutions
 
+-https://codefresh.io/learn/ci-cd-pipelines/ci-cd-and-agile-why-ci-cd-promotes-true-agile-development/
+
+-https://www.browserstack.com/guide/role-of-automation-testing-in-ci-cd#:~:text=Automation%20enables%20meaningful%20and%20effective,feedback%20reaches%20the%20developer%20early.
+
+-https://www.browserstack.com/guide/ci-cd-challenges-and-solutions
